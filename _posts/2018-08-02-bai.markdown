@@ -7,7 +7,7 @@ author:       "Breeze"
 header-img:   "img/post-bg-bai.jpg"
 header-mask:  0.3
 catalog:      false
-multilingual: true
+multilingual: false
 tags:
     - love
     - sister
