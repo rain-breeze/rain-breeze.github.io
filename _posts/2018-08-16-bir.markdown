@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "八月不远，我们不远"
-subtitle:     "Happy birthday to my sister"
+subtitle:     "Happy birthday to my babysister"
 date:         2018-08-16 00:00:00
 author:       "Breeze"
 header-img:   "img/bir.jpg"

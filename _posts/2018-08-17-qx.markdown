@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "七夕纪念"
-subtitle:     "Be my valentine"
+subtitle:     "Be my sweetheart"
 date:         2018-08-17 00:00:00
 author:       "Breeze"
 header-img:   "img/rose.jpg"
