@@ -1,0 +1,22 @@
+---
+layout:       post
+title:        "修炼情商读书笔记（一）"
+subtitle:     "从认识自己开始"
+date:         2018-08-31 00:00:00
+author:       "Breeze"
+header-img:   "img/read.jpg"
+header-mask:  0.3
+catalog:      false
+multilingual: false
+tags:
+    - love
+    - sister
+    - breeze
+---
+
+&emsp;&emsp;读书读自己。   
+&emsp;&emsp;   
+&emsp;&emsp;   
+&emsp;&emsp;   
+&emsp;&emsp;   
+&emsp;&emsp;
