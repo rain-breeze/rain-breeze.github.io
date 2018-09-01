@@ -2,7 +2,7 @@
 layout:       post
 title:        "认识并改变自己"
 subtitle:     "读《情商高就是要让人说话舒服》后感"
-date:         2018-08-31 00:00:00
+date:         2018-09-01 00:00:00
 author:       "Breeze"
 header-img:   "img/read.jpg"
 header-mask:  0.3
